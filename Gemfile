@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.0'
+#ruby '2.3.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
 # Use SCSS for stylesheets
@@ -28,7 +28,7 @@ gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '3.1.7'
-gem 'fog', '~> 1.23.0'
+gem  'fog', '1.37.0'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
