@@ -34,6 +34,18 @@ body {
   margin-top: 20px;
 }
 
+.nav_ul_item {
+  padding-left: 15px;
+  float: left;
+  margin-top: 20px;
+}
+
+.nav_resource_item {
+  padding-right: 15px;
+  float: right;
+  margin-top: 20px;
+}
+
 .center {
   text-align: center;
 }
@@ -88,6 +100,10 @@ input, textarea, select, .uneditable-input {
 
 input {
   height: auto !important;
+}
+
+.input_checkbox input {
+  width: auto !important;
 }
 
 span.picture {
