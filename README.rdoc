@@ -20,3 +20,5 @@ email: string
  - email must be present
  - email must be unique (since we'll use this for logins later)
  - email must be valid
+ 
+ - Added Admin functionality 
