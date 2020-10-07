@@ -4,5 +4,3 @@ Welcome to the MyRecipes App
 Designed from the Professional Ruby on Rails Developer Course on Udemy. 
 
 This app was created using the old Cloud 9 IDE and is currently running using Heroku. 
-
-[![Known Vulnerabilities](https://snyk.io/test/github/{username}/{repo}/badge.svg)](https://snyk.io/test/github/{username}/{repo})
