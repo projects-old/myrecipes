@@ -1,6 +1,7 @@
 language: ruby
 rvm:
 - 2.3.0
+dist: trusty
 
 script:
  — bundle install — jobs=3 — retry=3
